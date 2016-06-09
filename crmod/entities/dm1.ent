@@ -1,0 +1,30 @@
+//
+// dm1 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// In SSG room
+scr_ofsx 325
+scr_ofsy 1278
+scr_ofsz 24
+v_iyaw_level -135
+newstart
+
+// Put a RL in the big cage room
+scr_ofsx 760
+scr_ofsy 1010
+scr_ofsz 46
+skill 19
+makeitem
+
+// Change the YA to RA
+scr_ofsx -390
+scr_ofsy 1420
+scr_ofsz 46
+skill 6
+changeitem
+
+
+
+

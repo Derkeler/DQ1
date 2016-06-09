@@ -1,0 +1,55 @@
+//
+// dm4.cam
+//
+// Camera file for dm4.  For use with ClanRing CRMod++ versions 4.0 and up.
+//
+
+scr_ofsx 172.0
+scr_ofsy -52.0
+scr_ofsz 100.0
+v_ipitch_level 30
+v_iyaw_level -50.6
+makecam
+
+scr_ofsx 293.6
+scr_ofsy -372.0
+scr_ofsz -222.1
+v_ipitch_level 10
+v_iyaw_level 88.6
+makecam
+
+scr_ofsx 99.2
+scr_ofsy -756.0
+scr_ofsz -36.0
+v_ipitch_level 14.1
+v_iyaw_level -47.8
+makecam
+
+scr_ofsx 492.0
+scr_ofsy -1044.0
+scr_ofsz 100.0
+v_ipitch_level 16.9
+v_iyaw_level 136.4
+makecam
+
+scr_ofsx -69.3
+scr_ofsy 620.0
+scr_ofsz -220.0
+v_ipitch_level 14.1
+v_iyaw_level -90.0
+makecam
+
+scr_ofsx 652.0
+scr_ofsy -276.0
+scr_ofsz -220.0
+v_ipitch_level 24
+v_iyaw_level 135.0
+makecam
+
+scr_ofsx 789.7
+scr_ofsy -404.0
+scr_ofsz -40
+v_ipitch_level 25
+v_iyaw_level -90.0
+makecam
+

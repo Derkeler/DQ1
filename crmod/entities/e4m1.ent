@@ -1,0 +1,14 @@
+//
+// e4m1 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// at RL
+scr_ofsx 1154
+scr_ofsy 1302
+scr_ofsz 372
+v_iyaw_level 0
+newstart
+
+

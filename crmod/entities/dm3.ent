@@ -1,0 +1,19 @@
+//
+// dm3 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// At SNG room health nook
+scr_ofsx -404
+scr_ofsy 251
+scr_ofsz -16
+v_iyaw_level 0
+newstart
+
+// Behind pillar in RA room
+scr_ofsx 430
+scr_ofsy -704
+scr_ofsz -16
+v_iyaw_level 180
+newstart

@@ -1,0 +1,31 @@
+//
+// e1m1 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// Outside
+scr_ofsx -394
+scr_ofsy 1692
+scr_ofsz -200
+v_iyaw_level 0
+newstart
+
+// Rocket Launcher
+scr_ofsx 166
+scr_ofsy 2466
+scr_ofsz 40
+v_iyaw_level -135
+newstart
+
+// Mega Health
+scr_ofsx 892
+scr_ofsy 1016
+scr_ofsz -248
+v_iyaw_level -90
+newstart
+
+
+
+
+

@@ -1,0 +1,14 @@
+//
+// e3m3 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// at end of SNG hall
+scr_ofsx 45
+scr_ofsy -1540
+scr_ofsz 96
+v_iyaw_level 90
+newstart
+
+

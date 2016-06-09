@@ -1,0 +1,14 @@
+//
+// e3m7 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// This spawn point was bad and was causing players to respawn
+// where they died
+scr_ofsx -720
+scr_ofsy 528
+scr_ofsz 25
+killspawn
+
+

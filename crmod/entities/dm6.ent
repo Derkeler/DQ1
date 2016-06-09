@@ -1,0 +1,13 @@
+//
+// dm6 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+scr_ofsx 1054
+scr_ofsy -1696
+scr_ofsz 40
+v_iyaw_level 135
+newstart
+
+

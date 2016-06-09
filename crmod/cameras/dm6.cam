@@ -1,0 +1,83 @@
+//
+// dm6.cam
+//
+// Camera file for dm6.  For use with ClanRing CRMod++ versions 4.0 and up.
+//
+
+scr_ofsx 1228.0
+scr_ofsy -628.0
+scr_ofsz 266.7
+v_ipitch_level 22.5
+v_iyaw_level 32.3
+makecam
+
+scr_ofsx 1741.2
+scr_ofsy -309.3
+scr_ofsz 80.0
+v_ipitch_level 3.0
+v_iyaw_level -142.0
+makecam
+
+scr_ofsx 92.0
+scr_ofsy -1088.9
+scr_ofsz 222
+v_ipitch_level 22.5
+v_iyaw_level 0.0
+makecam
+
+scr_ofsx 1024.8
+scr_ofsy -1088.2
+scr_ofsz 340.2
+v_ipitch_level 17
+v_iyaw_level 0.0
+makecam
+
+scr_ofsx 256.6
+scr_ofsy -1588.0
+scr_ofsz 229.5
+v_ipitch_level 26.7
+v_iyaw_level -91.4
+makecam
+
+scr_ofsx 396.0
+scr_ofsy -1044.0
+scr_ofsz 300.0
+v_ipitch_level 10.0
+v_iyaw_level -43.6
+makecam
+
+scr_ofsx 1804.0
+scr_ofsy -1172.0
+scr_ofsz 260.0
+v_ipitch_level 14.1
+v_iyaw_level 135.0
+makecam
+
+scr_ofsx 985.0
+scr_ofsy -401.0
+scr_ofsz 72
+v_ipitch_level 10.0
+v_iyaw_level -45.0
+makecam
+
+scr_ofsx 1068.0
+scr_ofsy -1716.0
+scr_ofsz 74.0
+v_ipitch_level 10.0
+v_iyaw_level 135.0
+makecam
+
+scr_ofsx 1775.0
+scr_ofsy -1138.0
+scr_ofsz 64.0
+v_ipitch_level 10.0
+v_iyaw_level 135.0
+makecam
+
+scr_ofsx 888.0
+scr_ofsy -1085.7
+scr_ofsz -234.0
+v_ipitch_level 14.1
+v_iyaw_level -180.0
+makecam
+

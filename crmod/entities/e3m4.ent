@@ -1,0 +1,20 @@
+//
+// e3m4 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// under secret super nailgun
+scr_ofsx 2284
+scr_ofsy -1477
+scr_ofsz -168
+v_iyaw_level 135
+newstart
+
+// at super naigun
+scr_ofsx 844
+scr_ofsy -578
+scr_ofsz 232
+v_iyaw_level 180
+newstart
+

@@ -1,0 +1,14 @@
+//
+// e3m1 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// nook at exit
+scr_ofsx 1968
+scr_ofsy -606
+scr_ofsz -24
+v_iyaw_level 0
+newstart
+
+

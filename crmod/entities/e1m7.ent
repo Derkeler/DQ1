@@ -1,0 +1,13 @@
+//
+// e1m7 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// Next to lift up to RL and GL
+scr_ofsx 1048
+scr_ofsy 64
+scr_ofsz -8
+v_iyaw_level 180
+newstart
+

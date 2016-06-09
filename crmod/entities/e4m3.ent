@@ -1,0 +1,35 @@
+//
+// e4m3 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// at Quad, Ring near RL
+scr_ofsx 1368
+scr_ofsy 600
+scr_ofsz 152
+v_iyaw_level 0
+newstart
+
+// Secret Quad
+scr_ofsx -1240
+scr_ofsy 1370
+scr_ofsz 16
+v_iyaw_level 135
+newstart
+
+// at Quad, Ring at end of platform that opens to lava
+scr_ofsx 1115
+scr_ofsy -1055
+scr_ofsz 152
+v_iyaw_level -45
+newstart
+
+// Graveyard Quad
+scr_ofsx 2795
+scr_ofsy -304
+scr_ofsz -100
+v_iyaw_level 180
+newstart
+
+

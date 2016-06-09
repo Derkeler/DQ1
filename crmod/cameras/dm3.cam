@@ -1,0 +1,85 @@
+//
+// dm3.cam
+//
+// Camera file for dm3.  For use with ClanRing CRMod++ versions 4.0 and up.
+//
+
+// Bridge and Bridge Stairs
+scr_ofsx 1916.8
+scr_ofsy -485.4
+scr_ofsz 46.5
+v_ipitch_level 23
+v_iyaw_level 120
+makecam
+
+// RL and RL Stairs
+scr_ofsx 2028.0
+scr_ofsy 471.2
+scr_ofsz 3.7
+v_ipitch_level 15.5
+v_iyaw_level -180.0
+makecam
+
+// Water
+scr_ofsx 1888.0
+scr_ofsy -229.4
+scr_ofsz -335.0
+v_ipitch_level 8.4
+v_iyaw_level 175
+makecam
+
+// Pent Window and Pent
+scr_ofsx 1123.5
+scr_ofsy 685.1
+scr_ofsz 100.0
+v_ipitch_level 11.3
+v_iyaw_level -90.0
+makecam
+
+// Quad and Pent Window
+scr_ofsx 608.0
+scr_ofsy 357.0
+scr_ofsz 112.0
+v_ipitch_level 14.1
+v_iyaw_level 0
+makecam
+
+// Quad - Yellow Armour Side
+scr_ofsx 976.5
+scr_ofsy -367.5
+scr_ofsz 116.0
+v_ipitch_level 14.1
+v_iyaw_level 133.6
+makecam
+
+// Yellow Armour and Yellow Armour Stairs
+scr_ofsx 1751.2
+scr_ofsy -667.6
+scr_ofsz 53.3
+v_ipitch_level 14.1
+v_iyaw_level -153.3
+makecam
+
+// Mound and Bridge Entrance
+scr_ofsx 813.7
+scr_ofsy 240.0
+scr_ofsz -62.1
+v_ipitch_level 24
+v_iyaw_level -104.1
+makecam
+
+// Red Armour
+scr_ofsx 203.7
+scr_ofsy -703.1
+scr_ofsz 242.4
+v_ipitch_level 40
+v_iyaw_level -178.6
+makecam
+
+// Lifts Exit
+scr_ofsx 548.0
+scr_ofsy 668.0
+scr_ofsz 116.0
+v_ipitch_level 20
+v_iyaw_level -130.8
+makecam

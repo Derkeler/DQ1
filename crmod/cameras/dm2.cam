@@ -1,0 +1,62 @@
+//
+// dm2.cam
+//
+// Camera file for dm2.  For use with ClanRing CRMod++ versions 4.0 and up.
+//
+
+scr_ofsx 1900.0
+scr_ofsy 12.0
+scr_ofsz 102
+v_ipitch_level 20
+v_iyaw_level -42.2
+makecam
+
+scr_ofsx 2604.0
+scr_ofsy -1907.3
+scr_ofsz 147.7
+v_ipitch_level 25
+v_iyaw_level 128.0
+makecam
+
+scr_ofsx 2564.1
+scr_ofsy -747.7
+scr_ofsz 196.0
+v_ipitch_level 10
+v_iyaw_level 80
+makecam
+
+scr_ofsx 2684.0
+scr_ofsy -84.0
+scr_ofsz -22.0
+v_ipitch_level 14.1
+v_iyaw_level 137.8
+makecam
+
+scr_ofsx 1409.5
+scr_ofsy -468.2
+scr_ofsz 265.6
+v_ipitch_level 26
+v_iyaw_level -30
+makecam
+
+scr_ofsx 1810.1
+scr_ofsy -340.0
+scr_ofsz 230
+v_ipitch_level 5.6
+v_iyaw_level -75
+makecam
+
+scr_ofsx 1689.1
+scr_ofsy -828.0
+scr_ofsz 172.0
+v_ipitch_level -7.5
+v_iyaw_level -90.0
+makecam
+
+scr_ofsx 2342.0
+scr_ofsy -2241.3
+scr_ofsz 130
+v_ipitch_level -0.9
+v_iyaw_level 67.5
+makecam
+

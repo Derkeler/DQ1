@@ -1,0 +1,19 @@
+//
+// e2m2 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// Near spike shooter
+scr_ofsx 455
+scr_ofsy 640
+scr_ofsz 24
+v_iyaw_level -135
+newstart
+
+// Bottom of stairs
+scr_ofsx 660
+scr_ofsy 1225
+scr_ofsz -64
+v_iyaw_level 180
+newstart

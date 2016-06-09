@@ -1,0 +1,27 @@
+//
+// e2m1 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// SNG
+scr_ofsx 572
+scr_ofsy -294
+scr_ofsz 24
+v_iyaw_level 90
+newstart
+
+// Nook next to secret RA and Quad
+scr_ofsx 1128
+scr_ofsy 1960
+scr_ofsz 24
+v_iyaw_level 0
+newstart
+
+// At non-secret mega health
+scr_ofsx 484
+scr_ofsy 1434
+scr_ofsz -72
+v_iyaw_level -90
+newstart
+

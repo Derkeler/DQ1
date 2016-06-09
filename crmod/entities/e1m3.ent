@@ -1,0 +1,13 @@
+//
+// e1m3 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// Next to lift up to exit
+scr_ofsx 1246
+scr_ofsy 156
+scr_ofsz -136
+v_iyaw_level 0
+newstart
+

@@ -1,0 +1,20 @@
+//
+// e2m3 entity file
+//
+// For use with ClanRing CRMod++ V4.0 or higher
+//
+
+// SNG
+scr_ofsx -1264
+scr_ofsy 1508
+scr_ofsz -56
+v_iyaw_level -90
+newstart
+
+// Quad ledge
+scr_ofsx 340
+scr_ofsy 1164
+scr_ofsz 152
+v_iyaw_level -90
+newstart
+
